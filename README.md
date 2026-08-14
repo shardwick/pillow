@@ -7,3 +7,11 @@
 </div>
 
 <br>
+
+## Getting started
+
+```bash
+cargo build
+cargo run -p server
+cargo run -p client
+```
